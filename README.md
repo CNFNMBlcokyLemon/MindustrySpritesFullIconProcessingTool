@@ -25,3 +25,9 @@ Made By CN方柠喵FNM(Blocky Lemon)
 十分感谢 https://github.com/nothings/stb 仓库!!!
 
 Many thanks to the https://github.com/nothings/stb repository!!!
+
+如果这个工具确实帮到您了, 请给该仓库一个Star, 十分感谢!!!
+
+If this tool has indeed helped you, please give this repository a Star. Thank you very much!
+
+By CNFNM
