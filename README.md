@@ -22,6 +22,6 @@ Made with Dev-C++
 
 Made By CN方柠喵FNM(Blocky Lemon)
 
-十分感谢https://github.com/nothings/stb仓库!!!
+十分感谢 https://github.com/nothings/stb 仓库!!!
 
 Many thanks to the https://github.com/nothings/stb repository!!!
