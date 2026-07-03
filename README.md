@@ -6,7 +6,7 @@ Primary Writing and Concept: CNFNM
 
 Assisted Development and UI Design: DeepSeekAI
 
-Supported System: Windows
+Supported System: Windows10
 
 Made with Dev-C++
 
@@ -16,7 +16,7 @@ Made with Dev-C++
 
 辅助开发及UI设计: DeepSeekAI
 
-支持系统: Windows
+支持系统: Windows10
 
 于Dev-C++上开发
 
