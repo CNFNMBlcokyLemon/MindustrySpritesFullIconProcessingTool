@@ -2,6 +2,8 @@
 
 A simple Mindustry texture tool, mainly used for the creation of full icons, among other purposes.
 
+The latest version is: [v1.2.2](https://github.com/CNFNMBlcokyLemon/MindustrySpritesFullIconProcessingTool/releases/tag/Available_v1.2.2)!
+
 Primary Writing and Concept: CNFNM
 
 Assisted Development and UI Design: DeepSeekAI
@@ -11,6 +13,8 @@ Supported System: Windows10
 Made with Dev-C++
 
 一个简易的Mindustry贴图工具, 主要用于full贴图的制作等.
+
+目前最新版本为 [v1.2.2](https://github.com/CNFNMBlcokyLemon/MindustrySpritesFullIconProcessingTool/releases/tag/Available_v1.2.2)!
 
 主要编写以及思路: CNFNM
 
