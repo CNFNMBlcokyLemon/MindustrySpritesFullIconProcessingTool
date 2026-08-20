@@ -2,7 +2,7 @@
 
 A simple Mindustry texture tool, mainly used for the creation of full icons, among other purposes.
 
-The latest version is: [v1.2.2](https://github.com/CNFNMBlcokyLemon/MindustrySpritesFullIconProcessingTool/releases/tag/Available_v1.2.2)!
+The latest version is: [V1.3](https://github.com/CNFNMBlcokyLemon/MindustrySpritesFullIconProcessingTool/releases/tag/Available_V1.3)!
 
 Primary Writing and Concept: CNFNM
 
@@ -14,7 +14,7 @@ Made with Dev-C++
 
 一个简易的Mindustry贴图工具, 主要用于full贴图的制作等.
 
-目前最新版本为 [v1.2.2](https://github.com/CNFNMBlcokyLemon/MindustrySpritesFullIconProcessingTool/releases/tag/Available_v1.2.2)!
+目前最新版本为 [V1.3](https://github.com/CNFNMBlcokyLemon/MindustrySpritesFullIconProcessingTool/releases/tag/Available_V1.3)!
 
 主要编写以及思路: CNFNM
 
