@@ -1,0 +1,5 @@
+If you are an English user, please open the cmd in the corresponding directory and run:
+MinGW64\bin\g++ -O2 -o compositor_en.exe MDTSTmain.cpp image.cpp model.cpp dialog.cpp render.cpp awindow.cpp -mwindows -lcomdlg32 -lshell32 -lole32
+
+如果你是简体中文用户, 那么请在对应目录下打开cmd并运行:
+MinGW64\bin\g++ -O2 -DLANG_ZH -o compositor_zh.exe MDTSTmain.cpp image.cpp model.cpp dialog.cpp render.cpp awindow.cpp -mwindows -lcomdlg32 -lshell32 -lole32
